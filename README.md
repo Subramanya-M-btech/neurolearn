@@ -1,4 +1,4 @@
-# Study Buddy Hacakthon Project
+# Study Buddy Hackathon Project
 
 **Your all-in-one study dashboard — Pomodoro timer, AI study plan, flashcards, mood tracker, and more!**
 
