@@ -1,4 +1,4 @@
-# Study Buddy CS Girlies Hacakthon Project
+# Study Buddy Hacakthon Project
 
 **Your all-in-one study dashboard — Pomodoro timer, AI study plan, flashcards, mood tracker, and more!**
 
